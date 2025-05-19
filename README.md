@@ -7,7 +7,7 @@ I'm a data enthusiast with a passion for turning raw data into actionable insigh
 ---
 
 ## 🔧 Tools & Technologies
-- **Languages:** Python, SQL, DAX
+- **Languages:** Python, SQL
 - **Visualization:** Power BI, Matplotlib, Seaborn
 - **Libraries:** Pandas, NumPy, Scikit-learn
 - **Databases:** MySQL, PostgreSQL, SQLite
